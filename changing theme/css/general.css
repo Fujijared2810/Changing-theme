@@ -1,0 +1,18 @@
+@import 'variables.css';
+:root {
+    font-size: 62.5%
+}
+
+html {
+    font-family: open sans, sans-serif;
+    color: var(--fg);
+    background-color: var(--bg);
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none
+}
+
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    overflow-x: hidden
+}
